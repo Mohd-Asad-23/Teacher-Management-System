@@ -10,36 +10,36 @@ Our initial focus is on building an examination invigilation scheduler, followed
 
 ## Planned Features
 
-- Teacher profile management
-- Teacher timetable management
-- Automatic identification of available teachers
-- Examination invigilation scheduling
-- Answer-sheet checking duty allocation
-- Teaching workload and duty limits
-- Prevention of overlapping classes and duties
-- Fair distribution of examination duties
-- Manual timetable entry and Excel import
-- Separate access for administrators and teachers
+* Teacher profile management
+* Teacher timetable management
+* Automatic identification of available teachers
+* Examination invigilation scheduling
+* Answer-sheet checking duty allocation
+* Teaching workload and duty limits
+* Prevention of overlapping classes and duties
+* Fair distribution of examination duties
+* Manual timetable entry and Excel import
+* Separate access for administrators and teachers
 
 ## Initial Scheduling Rules
 
-- Examination invigilation is initially planned for 10:00 AM–12:00 PM.
-- Answer-sheet checking is initially planned for 2:00 PM–4:00 PM.
-- Teaching classes and examination duties will have separately configurable workload limits.
-- Teachers must satisfy the availability requirements before receiving assignments.
-- The number of invigilators required will be configurable for each examination.
+* Examination invigilation is initially planned for 10:00 AM–12:00 PM.
+* Answer-sheet checking is initially planned for 2:00 PM–4:00 PM.
+* Teaching classes and examination duties will have separately configurable workload limits.
+* Teachers must satisfy the availability requirements before receiving assignments.
+* The number of invigilators required will be configurable for each examination.
 
 These are initial project requirements and may be refined during development.
 
 ## Technology Stack
 
-- **Programming Language:** Python
-- **Code Editor:** Visual Studio Code
-- **Version Control:** Git
-- **Code Hosting:** GitHub
-- **Database:** SQLite (planned)
-- **Web Framework:** Flask (planned)
-- **Excel Integration:** Pandas and OpenPyXL (planned)
+* **Programming Language:** Python
+* **Code Editor:** Visual Studio Code
+* **Version Control:** Git
+* **Code Hosting:** GitHub
+* **Database:** SQLite (planned)
+* **Web Framework:** Flask (planned)
+* **Excel Integration:** Pandas and OpenPyXL (planned)
 
 ## Development Approach
 
@@ -58,3 +58,4 @@ Contributions, suggestions, and feedback are welcome as the project develops.
 ## License
 
 A project license has not yet been selected.
+ected.
