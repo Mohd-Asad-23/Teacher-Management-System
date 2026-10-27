@@ -58,4 +58,4 @@ Contributions, suggestions, and feedback are welcome as the project develops.
 ## License
 
 A project license has not yet been selected.
-ected.
+
